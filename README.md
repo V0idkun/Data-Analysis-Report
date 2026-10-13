@@ -22,5 +22,5 @@ An interactive web application built with Streamlit that automates the Explorato
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/V0idkun/Data-Analysis-Reportt.git](https://github.com/V0idkun/Data-Analysis-Reportt.git)
+   git clone [https://github.com/V0idkun/Data-Analysis-Report.git](https://github.com/V0idkun/Data-Analysis-Report.git)
    cd Data-Analysis-Reportt
